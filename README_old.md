@@ -1,10 +1,17 @@
-# Chronos
-
-An AI agent that collaborates with historians to extract structured datasets from primary sources, adapt to heterogeneous documents, and accumulate domain knowledge across sessions. Chronos combines a document analysis agent with a VS Code extension to analyze scanned page images, extract structured data, and build knowledge about archival sources.
+# Chronos for Natural History Information Extraction
+This project is based on [chronos](https://github.com/ai-historian/chronos)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.03553-b31b1b.svg)](https://arxiv.org/abs/2604.03553) [![Project Page](https://img.shields.io/badge/Project_Page-ai--historian.com-blue.svg)](https://ai-historian.com/research/chronos/)
 
 ![Chronos demo](demo.png)
+
+## TODOS
+1. Docker integration
+2. independent UI
+
+
+
+
 
 ## Prerequisites
 
